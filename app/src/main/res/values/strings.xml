@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MvpApplication</string>
+    <string name="info">Info</string>
+    <string name="msg">No internet Connection</string>
+    <string name="close">Close</string>
+    <string name="post">Post</string>
+    <string name="comment">Comment</string>
+</resources>
